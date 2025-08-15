@@ -10,7 +10,7 @@ This dashboard consists of three distinct pages:
 #### Executive Summary
 A high-level overview of key performance indicators (KPIs) including total sales, profit, order volume, and average delivery times. It also highlights the top markets and product categories.
 
-![Executive Summary](<LINK_TO_YOUR_EXECUTIVE_SUMMARY_SCREENSHOT>)
+![Executive Summary](<Supply_Chain_Analysis/Executive Summary.jpg>)
 
 ---
 #### Delivery Performance
@@ -33,4 +33,5 @@ A geographic analysis of sales and profitability by country. This page uses inte
 ---
 ## 4. Tools Used
 * **Power BI:** Data modeling, DAX calculations, and interactive dashboard creation.
+
 * **Power Query:** Data cleaning and transformation.
