@@ -10,19 +10,19 @@ This dashboard consists of three distinct pages:
 #### Executive Summary
 A high-level overview of key performance indicators (KPIs) including total sales, profit, order volume, and average delivery times. It also highlights the top markets and product categories.
 
-![Executive Summary](<Supply_Chain_Analysis/Executive Summary.jpg>)
+![Executive Summary](Executive_Summary.jpg)
 
 ---
 #### Delivery Performance
 A deep dive into the logistics, analyzing on-time vs. late delivery rates. This page identifies which shipping modes and departments are associated with the highest delivery risks.
 
-![Delivery Performance](<LINK_TO_YOUR_DELIVERY_PERFORMANCE_SCREENSHOT>)
+![Delivery Performance](Delivery_Performance.jpg)
 
 ---
 #### Regional Sales & Profit
 A geographic analysis of sales and profitability by country. This page uses interactive maps and slicers to explore regional performance and customer segments.
 
-![Regional Analysis](<LINK_TO_YOUR_REGIONAL_ANALYSIS_SCREENSHOT>)
+![Regional Analysis](Regional_Sales_&_Profit.jpg)
 
 ---
 ## 3. Key Insights & Findings
